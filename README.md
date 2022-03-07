@@ -27,5 +27,10 @@ Variables used in analysis
 ## Methods
 See my [Google Colab](https://colab.research.google.com/drive/1-nYMdKYLTlWY7F99ZTBCMHwFgM3eVi0F#scrollTo=gr63uFrBHyFm) for detailed steps I took to obtain, clean and analyze the data. The general steps were:
 * Imported raw data from a csv file into a dataframe
-* Cleaned data 
-* 
+* Cleaned data by dropping columns, correcting inconsistant values, imputing missing values and converting columns to appropriate datatypes
+* Create visualizations to explore characteristics of products and how they affect sales
+* Create machine learning models to find best fit
+
+## Results
+
+<img src="C:\Users\RobertRamos\Desktop\2022-03-06_18-07-43.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
