@@ -32,5 +32,6 @@ See my [Google Colab](https://colab.research.google.com/drive/1-nYMdKYLTlWY7F99Z
 * Create machine learning models to find best fit
 
 ## Results
+### Distribution of Item sales by Item MRP
 
-<img src="C:\Users\RobertRamos\Desktop\2022-03-06_18-07-43.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
+![](images/2022-03-06_18-07-43.png)
