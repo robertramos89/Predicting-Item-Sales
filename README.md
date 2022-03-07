@@ -32,7 +32,7 @@ See my [Google Colab](https://colab.research.google.com/drive/1-nYMdKYLTlWY7F99Z
 * Create machine learning models to find best fit
 
 ## Results
-###Outlet Sales by Outlet Type
+### Outlet Sales by Outlet Type
 From the graphic we can see that the type of outlet has a great effect on quantity of items sold. We can see that both supermarket types contribute to most of sales recorded.
 ![](images/2022-03-06_18-35-20.png)
 
