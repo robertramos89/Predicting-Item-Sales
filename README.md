@@ -37,4 +37,12 @@ From the graphic we can see that the type of outlet has a great effect on quanti
 ![](images/2022-03-06_18-35-20.png)
 
 ### Item MRP vs Outlet Sales
+The graphic below shows us the distribution of items sold in the various outlet types versus the total quantity sold.
+![](images/MRP.png)
 
+## Summary
+Based on the data that I have analyzed, one of the biggest factors I have found to affect the sales of products is the type of outlet the items are being sold at. We can see that the supermarkets led to more sales over traditional grocery stores.
+
+## Recommendation
+* Focus on building more supermarket locations over traditional grocery stores
+* Both models have a pretty low coefficient of determination which means that is still about 40% of uncertainty when making predictions off of these models however between the two models that we have tested, the Regression Tree model will perform better than a Linear Regression Model.
