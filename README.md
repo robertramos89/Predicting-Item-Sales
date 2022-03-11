@@ -33,8 +33,8 @@ See my [Google Colab](https://colab.research.google.com/drive/1-nYMdKYLTlWY7F99Z
 
 ## Results
 ### Item Sales by Outlet Type
-Supermarket Type2's had the highest volume of item sales over the other 3 types of outlets combined.
-![](images/ItemSalesbyOutletTypes.png)
+Supermarket Type1's had the highest volume of item sales over the other 3 types of outlets combined.
+![](images/ItemSalesbyOutletType.png)
 
 ### Item Sales by Item Category
 - Highest selling product categories are Fruits and Vegetables, Snack foods and Household products
@@ -46,7 +46,7 @@ Based on the data that I have analyzed, items that will sell highest in quantiti
 
 
 ## Recommendation
-* My recommendation to increase future sales of products would be to focus on building more Type 2 supermarkets as this will lead to the highest volume of sales across all products.
+* My recommendation to increase future sales of products would be to focus on building more Type 1 supermarkets as this will lead to the highest volume of sales across all products.
 * From comparing the two models, the Regression tree model is a better for predicting which product properties can lead to better sales. My justification for this based on the  model metrics is that is that the Decision Tree model has a higher R2 score which means that the training and testing datasets have a higher correlation and well as a lower RMSE which means that the model is more accurate at predicting in comparison to the Linear Regression Model.
 
 ![](images/LR.png)
