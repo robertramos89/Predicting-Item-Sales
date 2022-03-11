@@ -42,8 +42,9 @@ Supermarket Type2's had the highest volume of item sales over the other 3 types 
 ![](images/ItemSalesbyItemType.png)
 
 ## Summary
-Based on the data that I have analyzed, one of the biggest factors I have found to affect the sales of products is the type of outlet the items are being sold at. We can see that the supermarkets led to more sales over traditional grocery stores.
+Based on the data that I have analyzed, items that will sell highest in quantities are those that are sold in Supermarket Type2 outlets and top products categories that are more likely to sell than others are Fruits and Vegetables, Snack foods and Household products.
+
 
 ## Recommendation
-* Focus on building more supermarket locations over traditional grocery stores
+* My recommendation to increase future sales of products would be to focus on building more Type 2 supermarkets as this will lead to the highest volume of sales across all products.
 * Both models have a pretty low coefficient of determination which means that is still about 40% of uncertainty when making predictions off of these models however between the two models that we have tested, the Regression Tree model will perform better than a Linear Regression Model.
