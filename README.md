@@ -47,7 +47,7 @@ Based on the data that I have analyzed, items that will sell highest in quantiti
 
 ## Recommendation
 * My recommendation to increase future sales of products would be to focus on building more Type 2 supermarkets as this will lead to the highest volume of sales across all products.
-* Both models have a pretty low coefficient of determination which means that is still about 40% of uncertainty when making predictions off of these models however between the two models that we have tested, the Regression Tree model will perform better than a Linear Regression Model.
+* From comparing the two models, the Regression tree model is a better for predicting which product properties can lead to better sales. My justification for this based on the  model metrics is that is that the Decision Tree model has a higher R2 score which means that the training and testing datasets have a higher correlation and well as a lower RMSE which means that the model is more accurate at predicting in comparison to the Linear Regression Model.
 
 ![](images/LR.png)
 ![](images/DTR.png)
