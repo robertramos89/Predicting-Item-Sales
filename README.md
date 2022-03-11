@@ -33,11 +33,12 @@ See my [Google Colab](https://colab.research.google.com/drive/1-nYMdKYLTlWY7F99Z
 
 ## Results
 ### Item Sales by Outlet Type
-From the graphic we can see that the type of outlet has a great effect on quantity of items sold. We can see that both supermarket types contribute to most of sales recorded.
+Supermarket Type2's had the highest volume of item sales over the other 3 types of outlets combined.
 ![](images/ItemSalesbyOutletType.png)
 
 ### Item Sales by Item Category
-The graphic below shows us the distribution of items sold in the various outlet types versus the total quantity sold.
+- Highest selling product categories are Fruits and Vegetables, Snack foods and Household products
+- Lowest selling item categories are Breakfast, Seafood and products that fall into the Others category
 ![](images/ItemSalesbyItemType.png)
 
 ## Summary
