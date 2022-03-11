@@ -4,7 +4,7 @@ Author: Robert Ramos
 ## Overview
 The head of a retail chain has asked me to recommend strategies for determining what product characteristics lead to higher sales volume.
 
-I focused on primarily on outlet sales as an indicator of how
+I focused my analysis primarily on the total quantity of items sold by item type as well as the type of outlets the products were sold.
 
 ## Variables 
 Variables used in analysis
