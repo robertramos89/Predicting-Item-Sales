@@ -34,7 +34,7 @@ See my [Google Colab](https://colab.research.google.com/drive/1-nYMdKYLTlWY7F99Z
 ## Results
 ### Item Sales by Outlet Type
 Supermarket Type2's had the highest volume of item sales over the other 3 types of outlets combined.
-![](images/ItemSalesbyOutletType.png)
+![](images/ItemSalesbyOutletTypes.png)
 
 ### Item Sales by Item Category
 - Highest selling product categories are Fruits and Vegetables, Snack foods and Household products
