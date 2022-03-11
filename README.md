@@ -32,13 +32,13 @@ See my [Google Colab](https://colab.research.google.com/drive/1-nYMdKYLTlWY7F99Z
 * Create machine learning models to find best fit
 
 ## Results
-### Outlet Sales by Outlet Type
+### Item Sales by Outlet Type
 From the graphic we can see that the type of outlet has a great effect on quantity of items sold. We can see that both supermarket types contribute to most of sales recorded.
-![](images/2022-03-06_18-35-20.png)
+![](images/ItemSalesbyOutletType.png)
 
-### Item MRP vs Outlet Sales
+### Item Sales by Item Category
 The graphic below shows us the distribution of items sold in the various outlet types versus the total quantity sold.
-![](images/MRP.png)
+![](images/ItemSalesbyItemType.png)
 
 ## Summary
 Based on the data that I have analyzed, one of the biggest factors I have found to affect the sales of products is the type of outlet the items are being sold at. We can see that the supermarkets led to more sales over traditional grocery stores.
