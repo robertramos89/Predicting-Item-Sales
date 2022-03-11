@@ -48,3 +48,6 @@ Based on the data that I have analyzed, items that will sell highest in quantiti
 ## Recommendation
 * My recommendation to increase future sales of products would be to focus on building more Type 2 supermarkets as this will lead to the highest volume of sales across all products.
 * Both models have a pretty low coefficient of determination which means that is still about 40% of uncertainty when making predictions off of these models however between the two models that we have tested, the Regression Tree model will perform better than a Linear Regression Model.
+
+![](images/LR.png)
+![](images/DTR.png)
