@@ -34,6 +34,7 @@ See my [Google Colab](https://colab.research.google.com/drive/1-nYMdKYLTlWY7F99Z
 ## Results
 ### Item Sales by Outlet Type
 Supermarket Type1's had the highest volume of item sales over the other 3 types of outlets combined.
+
 ![](images/OutletSales.png)
 ![](images/ItemSalesbyOutletTypes.png)
 
